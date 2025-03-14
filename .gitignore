@@ -42,6 +42,18 @@ vignettes/*.pdf
 # pkgdown site
 docs/
 
+# ignore data folder
+data/
+
+# ignore output folder
+output/
+
+# ignore .html files
+*.html
+
+# ignore .pdf files
+*.pdf
+
 # translation temp files
 po/*~
 
